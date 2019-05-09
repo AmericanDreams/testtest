@@ -1,2 +1,5 @@
 salam !
 bu menim localda deyishdiyim value !
+ikisini de saxladim
+remote vallue !
+
