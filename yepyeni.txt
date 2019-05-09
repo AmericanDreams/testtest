@@ -1,2 +1,2 @@
 salam !
-hmm !
+bu menim localda deyishdiyim value !
